@@ -15,7 +15,7 @@ This project is a simple Java program that demonstrates how to **read**, **write
 ## 📁 File Structure
 
 ```
-task1/
+FileUtilityHandling/
 ├── FileUtility.java   # Main Java program for file handling
 ├── input.txt          # (Optional) Input file to test reading
 ```
