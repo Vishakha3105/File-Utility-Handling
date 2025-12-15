@@ -1,6 +1,6 @@
 ## 📁 File-Handling-Utility
 
-This project is a simple Java program that demonstrates how to **read**, **write**, and **modify** text files using file handling techniques in Java.
+This project is a simple Java program that demonstrates how to "read", "write", and "modify" text files using file handling techniques in Java.
 
 ---
 
