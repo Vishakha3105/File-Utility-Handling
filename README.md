@@ -52,13 +52,4 @@ Text appended to output.txt
 
 ---
 
-## 🧑‍💻 Author
 
-Intern: Vishakha Kandrikar
-Task: Task 1 – Java Programming Internship
-
----
-
-## 📜 License
-
-This project is for educational purposes as part of a Java internship.
